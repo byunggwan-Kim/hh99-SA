@@ -1,6 +1,4 @@
 # hh99-SA
-<<<<<<< Updated upstream
-=======
 
 # S반 12조
 
@@ -19,4 +17,4 @@
 ## 박나원님
 ### 기대고 싶은 개발자
 #### ESTP
->>>>>>> Stashed changes
+
